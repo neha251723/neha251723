@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @neha251723
-- 👀 I’m interested in developing unique things and reading books...
-- 🌱 I’m currently learning reactjs, tailwin css and python...
-- 💞️ I’m looking to collaborate on a web project like a visual studio..
+- 👀 Passionate about developing unique and creative projects..
+- 📖 Avid book reader, always exploring new ideas..
+- 🌱 Currently learning React.js, Tailwind CSS, and Python..
+- 💡 Interested in collaborating on web projects, especially something like Visual Studio..
+- 🤝 Open to new opportunities and collaborations..
 - 📫 How to reach me - my linked-in: https://www.linkedin.com/in/neha-bhati-784618226
-- ⚡ Fun fact: am a lazy but funny person, and i love to read books...
+- ⚡ Fun fact: I may be lazy, but I'm also funny—and I love reading books! 📚😄
 
 <!---
 neha251723/neha251723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
